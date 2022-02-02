@@ -1,0 +1,2 @@
+class Blist < ApplicationRecord
+end
